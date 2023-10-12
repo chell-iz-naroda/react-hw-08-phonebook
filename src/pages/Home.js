@@ -23,7 +23,7 @@ export default function Home() {
             </Helmet>
             <div style={styles.container}>
                 <h1 style={styles.title}>
-                    Phonebook apps welcome page{' '}
+                    Phonebook app welcome page{' '}
                     <span role="img" aria-label="Greeting icon">
                         💁‍♀️
                     </span>
